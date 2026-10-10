@@ -9,6 +9,7 @@ Repositório único dos meus desafios da DIO, organizado pela ordem em que desen
 | [03 — Relatório gerencial](modulo-03-relatorio-gerencial-power-bi/) | Relatório gerencial de vendas | Arquivo `.pbix` com visuais e navegação |
 | [04 — MySQL e Power BI](modulo-04-mysql-power-bi/) | Integração e transformação de dados | Relatório `.pbix`, SQL e imagem do dashboard |
 | [05 — Modelagem dimensional](modulo-05-star-schema-power-bi/) | Dois desafios de star schema com Financial Sample | Desafio 1 e Desafio 2, cada um com seus arquivos e captura do modelo |
+| [06. Data Analytics & Storytelling com Power BI](modulo-06-data-analytics-storytelling-power-bi/) | Data Analytics & Storytelling com Power BI | Pasta do módulo criada; arquivos do desafio serão adicionados |
 
 Cada pasta mantém os arquivos e o README do projeto original. Os históricos de commits continuam disponíveis nos repositórios de origem arquivados.
 
