@@ -8,7 +8,7 @@ Repositório único dos meus desafios da DIO, organizado pela ordem em que desen
 | [02 — Dashboard Power BI](modulo-02-dashboard-power-bi/) | Dashboard com Financial Sample | Relatório `.pbix`, planilha e capturas de três páginas |
 | [03 — Relatório gerencial](modulo-03-relatorio-gerencial-power-bi/) | Relatório gerencial de vendas | Arquivo `.pbix` com visuais e navegação |
 | [04 — MySQL e Power BI](modulo-04-mysql-power-bi/) | Integração e transformação de dados | Relatório `.pbix`, SQL e imagem do dashboard |
-| [05 — Star schema](modulo-05-star-schema-power-bi/) | Modelo dimensional financeiro | Arquivo `.pbix`, planilha, diagrama e documentação |
+| [05 — Modelagem dimensional](modulo-05-star-schema-power-bi/) | Dois desafios de star schema com Financial Sample | Desafio 1 e Desafio 2, cada um com seus arquivos e captura do modelo |
 
 Cada pasta mantém os arquivos e o README do projeto original. Os históricos de commits continuam disponíveis nos repositórios de origem arquivados.
 
